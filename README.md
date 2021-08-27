@@ -1,24 +1,21 @@
-# calculator-vue-webapp
+# Vue Calculator
+📗 A simple calculator inspired by the ios design.
 
-## Project setup
-```
-npm install
-```
+![alt text](https://github.com/filipedoc/calculator-vue-webapp/blob/main/calculator.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to Use
+To clone and run this application, you'll need Git, Node.js + Npm installed on your computer. From your command line:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+```bash
+# Clone this repository
+$ git clone https://github.com/filipedoc/calculator-vue-webapp
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Go into the repository
+$ cd calculator-vue-webapp
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm run serve
+```
